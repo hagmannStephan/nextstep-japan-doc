@@ -18,11 +18,17 @@ export default defineConfig({
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' }
         ]
+      },
+      {
+        text: 'During Your Stay',
+        items: [
+          { text: 'Extend Visa', link: 'doc/during/extend-visa'}
+        ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/hagmannStephan/nextstep-japan-doc' }
     ]
   }
 })

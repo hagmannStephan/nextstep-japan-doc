@@ -1,6 +1,6 @@
 # ReadMe of NextStep Japan Doc
 
-## Execute locally
+## Run Locally
 
 Prerequisites: `node.js`
 

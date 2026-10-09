@@ -5,7 +5,6 @@ layout: home
 hero:
   name: "NextStep Japan Doc"
   text: "A help resource for NextStep members staying in Japan"
-  tagline: My great project tagline
   actions:
     - theme: brand
       text: Markdown Examples
@@ -15,11 +14,11 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Purpose
+    details: This documentation has the purpose of helping you organize your stay in Japan and supporting you when encountering common problems. 
+  - title: Open Source
+    details: If something isn't correct or you want to extend the documentation, you can press the GitHub icon on the top right and create a pull request. Thanks for your support!
+  - title: Disclaimer
+    details: This is a documentation created by a NextStep alumnus. There is no quality assurance by NextStep or Swissnex. Do not rely on it as a single source of truth.
 ---
 
