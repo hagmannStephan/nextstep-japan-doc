@@ -1,7 +1,7 @@
 # Visa Extension
 
 Your initial visa is only valid for 90 days.
-From **30 days before expiration**, you can extend your tourist visa.
+From **30 days before expiration**, you can extend your tourist visa by 90 more days.
 
 ::: tip
 Extending your visa can take **up to 4 hours**. Try to visit early in the day to beat the crowds.

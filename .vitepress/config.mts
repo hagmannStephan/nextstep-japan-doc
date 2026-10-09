@@ -8,21 +8,27 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Overview', link: '/doc/overview' }
     ],
 
     sidebar: [
+      { text: 'Overview', link: '/doc/overview' },
       {
-        text: 'Examples',
+        text: 'Before Your Arrival',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'General Information', link: '/doc/before/general-info' },
+          { text: 'Housing', link: '/doc/before/housing' },
+          { text: 'Learning the Language', link: '/doc/before/learn-language' },
+          { text: 'Tourist Visa', link: '/doc/before/tourist-visa' },
+          { text: 'Public Transport', link: '/doc/before/public-transport' }
         ]
       },
       {
         text: 'During Your Stay',
         items: [
-          { text: 'Extend Visa', link: 'doc/during/extend-visa'}
+          { text: 'Visa Extension', link: 'doc/during/extend-visa'},
+          { text: 'Postal Service', link: 'doc/during/postal-service'},
+          { text: 'Shinkansen', link: 'doc/during/shinkansen'}
         ]
       }
     ],
